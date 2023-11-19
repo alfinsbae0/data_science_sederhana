@@ -1,7 +1,7 @@
-# - git clone https://github.com/alfinsbae0/python_ds_sederhana.git
-# - cd python_ds_sederhana
-# - pip install -r requirements.txt
-# - python main.py
+<p> - git clone https://github.com/alfinsbae0/python_ds_sederhana.git </p>
+<p> - cd python_ds_sederhana </p> 
+<p> - pip install -r requirements.txt </p>
+<p> - python main.py </p>
 
 #
 

@@ -3,13 +3,15 @@
 <p> - pip install -r requirements.txt </p>
 <p> - python main.py </p>
 
-#
+<br>
+<br>
 
-# - tested:
-#   datasets Diabetes from https://archive.ics.uci.edu/dataset/34/diabetes
+<p> - tested: </p>
+<p> datasets Diabetes from https://archive.ics.uci.edu/dataset/34/diabetes </p>
 
-#
+<br>
+<br>
 
-# Jika terdapat masalah silahkan berikan masukan dan komen.
-# Kritik dan saran sangat saya perlukan agar bisa berkembang.
-# Terimakasih.
+<p> Jika terdapat masalah silahkan berikan masukan dan komen. </p> 
+<p> Kritik dan saran sangat saya perlukan agar bisa berkembang. </p> 
+<p> Terimakasih. </p> 

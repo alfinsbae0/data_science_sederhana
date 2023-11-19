@@ -4,8 +4,8 @@
 # - python main.py
 
 # - tested:
-# - datasets Diabetes from https://archive.ics.uci.edu/dataset/34/diabetes
+#   datasets Diabetes from https://archive.ics.uci.edu/dataset/34/diabetes
 
-# - Jika terdapat masalah silahkan berikan masukan dan komen.
-# - Kritik dan saran sangat saya perlukan agar bisa berkembang.
-# - Terimakasih.
+# Jika terdapat masalah silahkan berikan masukan dan komen.
+# Kritik dan saran sangat saya perlukan agar bisa berkembang.
+# Terimakasih.

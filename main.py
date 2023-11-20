@@ -43,10 +43,13 @@ def reduction_data(file_path):
     print("Data Berhasil di Load")
     time.sleep(1)
 
-    x = int(input("Masukan data x : "))
-    y = int(input("Masukan data y : "))
+    col1 = input("Masukkan Kolom 1 : ")
+    col2 = input("Masukkan Kolom 2 : ")
 
-    filtered_data = load_data[(load_data['Code'] >= x) & (load_data['Code'] >= y)]
+    x = int(input("Masukan batas terendah : "))
+    y = int(input("Masukan batas tertinggi : "))
+
+    filtered_data = load_data[(load_data[col1] >= x) > (load_data[col2] >= y)]
 
     print("Filter Data Berhasil")
     time.sleep(1)

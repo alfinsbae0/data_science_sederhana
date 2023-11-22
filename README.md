@@ -1,5 +1,5 @@
-<p> - git clone https://github.com/alfinsbae0/python_ds_sederhana.git </p>
-<p> - cd python_ds_sederhana </p> 
+<p> - git clone https://github.com/alfinsbae0/data_science_sederhana.git </p>
+<p> - cd data_science_sederhana </p> 
 <p> - pip install -r requirements.txt </p>
 <p> - python main.py </p>
 

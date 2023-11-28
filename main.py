@@ -2,8 +2,6 @@ import pandas as pd
 from tkinter import filedialog
 import tkinter as tk
 import time
-# import matplotlib.pyplot as plt
-# import numpy as np
 
 
 root = tk.Tk()
@@ -16,7 +14,7 @@ def print_data(file_path):
 
 def count_missing_data(file_path):
     count_null = file_path.isnull().sum()
-    print("menghitung missing data....")
+    print("Menghitung Missing Data....")
     time.sleep(2)
     
     print("Hasil Count Missing Data : ")
